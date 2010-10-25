@@ -1,8 +1,14 @@
-
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Ruby on Rails Tutorial Rally App | <%= @title %></title>
+  </head>
+  <body>
     <h1>Contact</h1>
     <p>
       Contact Ruby on Rails Tutorial about the rally app at the
       <a href="http://railstutorial.org/feedback">feedback page</a>.
     </p>
-
+  </body>
+</html>
 

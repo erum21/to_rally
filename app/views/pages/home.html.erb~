@@ -1,8 +1,14 @@
-
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Ruby on Rails Tutorial Rally App | <%= @title %></title>
+  </head>
+  <body>
     <h1>Rally App</h1>
     <p>
       This is the home page for the
       <a href="http://railstutorial.org/">Ruby on Rails Tutorial</a>
       a Rally application.
     </p>
-
+  </body>
+</html>

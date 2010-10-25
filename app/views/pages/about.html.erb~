@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Ruby on Rails Tutorial Rally App | <%= @title %></title>
+  </head>
+<body>
+
+<h1>About us</h1>
+  <p>This application is about a blog build using the <a href="http://railstutorial.org">Ruby on Rails Tutorial.</a>
+  and the<a href="http://www.ruby-lang.org/"> Rails framework</a> called the <strong>Ruby on Rails</strong>.
+  This is a project to make the best out the Rails Tutorial to learn web development
+      with <a href="http://rubyonrails.org/">Ruby on Rails</a>.
+  </p>
+</body>
+</html>
